@@ -4,7 +4,7 @@ section {
 	max-width: 800px;
 	margin-left: 235px;
 	margin-top: 50px;
-	margin-bottom: 50px; 
+	margin-bottom: 50px;
 	color: #4391AF;
 	border-bottom: 2px solid white;
 }
@@ -24,6 +24,13 @@ body {
 	background-color: #DCFEFF;
 }
 
+#mySketch {
+	margin-top: -150px;
+}
+
+.frack {
+	margin-left: auto;
+}
 h1 {
 	color: #4391AF;
 	font-size: 3em;
