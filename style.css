@@ -12,6 +12,10 @@ p {
 	margin-bottom: 50px;
   margin-left:90px;
 } */
+header {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
 
 body {
 	text-align:center;
@@ -22,9 +26,17 @@ body {
 	background-color: #DCFEFF;
 }
 
+p {
+	max-width: 800px;
+	text-align: left;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 80px;
+	color: #4391AF;
+}
+
 h1 {
 	text-align: center;
-	margin: 200px auto 30px auto;
 	color: #4391AF;
 
 }
@@ -35,23 +47,24 @@ p {
 	margin: 50px auto 50px auto;
 	color: #4391AF;
 }
-/* unvisited link */
+/* unvisited link *//*
 a:link {
     color: #4391AF;
     text-decoration: none;
 }
 
-/* visited link */
+/* visited link *//*
 a:visited {
     color: #4391AF;
 }
 
-/* mouse over link */
+/* mouse over link *//*
 a:hover {
     color: hotpink;
 }
 
-/* selected link */
+/* selected link *//*
 a:active {
     color: #4391AF;
 }
+*/
