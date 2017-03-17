@@ -1,34 +1,25 @@
 /* Blog for Portal CSS */
-/*section {
-	text-align: left;
-	/*margin: auto;
-	width: 50%;*/
-/*	border-bottom: 2px solid white;
-}*/
 
-/*
-p {
-	max-width: 800px;
-	margin-bottom: 50px;
-  margin-left:90px;
-} */
-header {
+#name {
 	padding-top: 80px;
 	padding-bottom: 80px;
 }
 
+
+
 body {
-	text-align:center;
+	text-align:left;
 	margin: auto;
-	width: 50%;
+	width: 40%;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size:1.1em;
 	background-color: #DCFEFF;
 }
 
 p {
-	max-width: 800px;
+	max-width: 400px;
 	text-align: left;
+	border-bottom: 2px solid #fff;
 	margin: auto;
 	padding-top: 50px;
 	padding-bottom: 80px;
@@ -36,9 +27,8 @@ p {
 }
 
 h1 {
-	text-align: center;
+	text-align: left;
 	color: #4391AF;
-
 }
 
 p {
@@ -46,6 +36,12 @@ p {
 	text-align: left;
 	margin: 50px auto 50px auto;
 	color: #4391AF;
+}
+
+section {
+	border-bottom-width: 800px;
+	color:  #fff;
+
 }
 /* unvisited link *//*
 a:link {
